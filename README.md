@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yazan</h1>
-<h3 align="center">
+<h1 align="left">Hi 👋, I'm Yazan</h1>
+<h3 align="left">
 Crafting pixel-perfect interfaces, sprinkling animations, and sipping Red Bull (with mom’s permission) in between.<br/>
 Software engineer · Part-time designer · Full-time food addict 🍕
 </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yznki&theme=tokyonight&title=Stars,Followers,Commit,Repositories,Issues"/>
   </a>
